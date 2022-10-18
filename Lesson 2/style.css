@@ -1,0 +1,33 @@
+.all{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.first-block{
+    text-align: center;
+    padding: 80px;
+    background-color: #2269ba;
+    font-size: 30px;
+    margin: 15px;
+}
+.small-blocks{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.small-block{
+    box-sizing: border-box;
+    width: 170px;
+    text-align: center;
+    padding: 80px 20px;
+    background-color: #16457a;
+    font-size: 20px;
+}
+
+.last-block{
+    text-align: center;
+    padding: 200px;
+    background-color: #2269ba;
+    font-size: 30px;
+    margin: 15px;
+}
