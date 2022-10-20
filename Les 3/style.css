@@ -1,0 +1,51 @@
+body{
+    box-sizing: border-box;
+}
+
+.brd{
+    border: black 1px solid;
+}
+h1{
+    font-size: 22px;
+    font-weight: normal;
+}
+
+p{
+    opacity: 0.4;
+    margin: 35px 0;
+}
+
+.container{
+    margin-top: 60px;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.container-box{
+    height: 200px;
+    width: 180px;
+    margin: 5px;
+    padding: 42px;
+    position: relative;
+}
+
+.circle{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -38px;
+    left: 36%;
+    background-color: white;
+}
+
+.fs{
+    font-size: 25px;
+    margin-top: 22px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+}
