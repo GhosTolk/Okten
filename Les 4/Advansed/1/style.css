@@ -1,0 +1,80 @@
+.main{
+    width: 95%;
+    height: 800px;
+    background-color: indianred;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+    align-content: flex-start;
+    font-size: 40px;
+}
+
+.second{
+    width: 75%;
+    height: 10%;
+    background-color: #102b3e;
+}
+
+.first{
+    width: 25%;
+    height: 10%;
+    background-color: #6964e1;
+}
+
+.third{
+    width: 25%;
+    height: 45%;
+    background-color: #2269ba;
+}
+
+.osn{
+    width: 75%;
+    height: 65%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.fourth{
+    width: 70%;
+    height: 30%;
+    background-color: peru;
+}
+
+.fifth{
+    width: 30%;
+    height: 30%;
+    background-color: blueviolet;
+}
+
+.sixth{
+    width: 70%;
+    height: 70%;
+    background-color: lawngreen;
+}
+
+.seventh{
+    width: 30%;
+    height: 70%;
+    background-color: hotpink;
+}
+
+.tools{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25%;
+    height: 20%;
+}
+
+.eighth{
+    width: 100%;
+    height: 50%;
+    background-color: yellow;
+}
+
+.ninth{
+    width: 100%;
+    height: 50%;
+    background-color: red;
+}
+
