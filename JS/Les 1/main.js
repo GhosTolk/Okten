@@ -41,7 +41,7 @@ console.log(g);
 let firstName = prompt("First Name?");
 let middleName = prompt("Middle Name?");
 let lastName = prompt("Last Name?");
-let age = prompt("Age?");
+let age = +prompt("Age?");
 
 let person = `${firstName} ${middleName} ${lastName} ${age}`;
 
